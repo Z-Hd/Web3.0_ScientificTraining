@@ -14,3 +14,7 @@ E-mail - enyelsequeira1994@gmail.com
 Want me to cover the project you've created? Send me an e-mail 👌
 
 ## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
+
+本项目仅用于学习讨论，原作者信息已经放在首部。
+使用VS Code打开本项目，从控制台进入client路径下，运行npm run dev指令。
